@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() 
+{
+	char str[20];
+    printf("Hello, World!\n");
+    gets(str);
+    printf("%s",str);
+    return 0;
+}
+
